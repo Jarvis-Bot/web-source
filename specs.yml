@@ -1,0 +1,29 @@
+---
+author:
+  name: Victor Bersy
+  contacts:
+    email: victorbersy+jarvis@gmail.com
+    github: VictorBersy
+    twitter: VictorBersy
+specs:
+  name: WebSource
+  description: Receive anything from the web
+  keywords:
+  - web
+  - http
+  - hook
+  homepage: https://github.com/Jarvis-Bot/web-source
+  version: '0.1'
+  class_name: WebSource
+  type: source
+  license:
+    type: MIT
+    url: https://github.com/Jarvis-Bot/web-source/LICENSE
+  repository:
+    type: git
+    url: https://github.com/Jarvis-Bot/web-source
+  dependencies:
+    jarvis: "~> 2.0"
+source:
+  service_name: WebSource
+  color_message: '349D70'
